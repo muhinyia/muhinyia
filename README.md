@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muhinyia
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Engineering Projects 
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently seeking a role in Data Analysis 
 - 📫 How to reach me : ndegwamuhinyiadmn97@gmail.com
 
 <!---
