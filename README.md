@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhinyia
-- 👀 I’m learning Data Engineering
+- 👀 Health Data Scientist
 - 📫 How to reach me : muhinyiandegwa@gmail.com
 
 <!---
